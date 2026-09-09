@@ -1,8 +1,10 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class ListDemo {
+public class ListDemoP02 {
     public static void main(String[] args) {
+
+        //Good practice with using generics
         List<Integer> l1 = new ArrayList<>();
         l1.add(10);
         l1.add(20);
