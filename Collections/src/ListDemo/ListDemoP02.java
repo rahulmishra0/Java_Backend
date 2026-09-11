@@ -1,3 +1,5 @@
+package ListDemo;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -18,5 +20,6 @@ public class ListDemoP02 {
         //Or
         System.out.println(l1); //for List
 
+        System.out.println(l1.get(3)); //for index value
     }
 }
